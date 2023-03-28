@@ -19,4 +19,4 @@
 
 6) Mettre en place les mentions légales (générateur en ligne)
 
-7) Mettre en place le full responsive sur votre version bootstrap
+7) Mettre en place le responsive sur votre version bootstrap avec xs, md, lg
